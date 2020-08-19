@@ -1,0 +1,36 @@
+.header
+{
+  height: 60px;
+}
+.image-logo
+{
+  float: left;
+  height: 50px;
+  width: 50px;
+  margin: 5px;
+}
+
+.title
+{
+  float: left;
+  font-size: 24px;
+  margin: 10px;
+}
+
+.about, .facts
+{
+  float: right;
+  margin: 10px;
+  font-size: 24px;
+  text-decoration: none;
+  color:blue;
+}
+
+.about-active, .facts-active
+{
+  float: right;
+  margin: 10px;
+  font-size: 24px;
+  color: black;
+  text-decoration: underline;
+}

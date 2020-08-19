@@ -1,0 +1,26 @@
+.fact-container
+{
+  display: flex;
+  flex-direction: column;
+  width: 90vw;
+  height: 100vh;
+}
+
+.fact-item
+{
+  width: 90vw;
+  height: 100%;
+  display: flex;
+  justify-content: flex-start;
+  margin: 10px;
+  font-size: 12px;
+}
+
+.fact-heading
+{
+    width: 90vw;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}
